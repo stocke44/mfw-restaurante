@@ -1,4 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster|Raleway:700,400,300);
+
+@media screen and(min-width:632){
+    #contact iframe{
+        width:447;
+    }
+}
+
 /* Global */
 #our_story, #review, #menu, #contact{
     min-height: 600px;
@@ -272,7 +279,6 @@ address{
     margin-top: 50px;
     margin-bottom: 25px;
 }
-
 
 
 
